@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Log files (if any)
+*.log
+
+# PyCharm-specific files (if you're using PyCharm only)
+.idea/
